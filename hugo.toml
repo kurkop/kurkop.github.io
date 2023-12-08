@@ -1,4 +1,4 @@
-baseURL = 'https://kurkop.com/'
+baseURL = 'https://www.kurkop.com/'
 languageCode = 'en-us'
 title = 'Kurkop'
 theme = 'ananke'

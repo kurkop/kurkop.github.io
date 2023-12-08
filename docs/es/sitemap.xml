@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kurkop.com/es/categories/</loc>
+    <loc>https://www.kurkop.com/es/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kurkop.com/categories/"
+                href="https://www.kurkop.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://kurkop.com/es/categories/"
+                href="https://www.kurkop.com/es/categories/"
                 />
   </url><url>
-    <loc>https://kurkop.com/es/</loc>
+    <loc>https://www.kurkop.com/es/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kurkop.com/"
+                href="https://www.kurkop.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://kurkop.com/es/"
+                href="https://www.kurkop.com/es/"
                 />
   </url><url>
-    <loc>https://kurkop.com/es/tags/</loc>
+    <loc>https://www.kurkop.com/es/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kurkop.com/tags/"
+                href="https://www.kurkop.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://kurkop.com/es/tags/"
+                href="https://www.kurkop.com/es/tags/"
                 />
   </url>
 </urlset>
