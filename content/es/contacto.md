@@ -1,8 +1,8 @@
 ---
-title: Contact
+title: Contacto
 featured_image: ''
 omit_header_text: true
-description: We'd love to hear from you
+description: Me encantaria saber de ti
 type: page
 menu: main
 

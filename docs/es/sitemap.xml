@@ -16,6 +16,10 @@
                 href="https://www.kurkop.com/es/categories/"
                 />
   </url><url>
+    <loc>https://www.kurkop.com/es/contacto/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kurkop.com/es/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
